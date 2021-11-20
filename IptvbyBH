@@ -1,7 +1,5 @@
 #EXTM3U
 
-#SOURCEIT
-
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
